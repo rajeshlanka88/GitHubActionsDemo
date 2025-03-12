@@ -2,7 +2,7 @@
 
 Repo for the `GitHub Actions Fundamentals` training.
 
-Test comment
+Test comment [this will not trigger the CLI]
 
 ## 👉 Objectives
 
